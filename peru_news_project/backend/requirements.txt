@@ -1,0 +1,13 @@
+feedparser
+requests
+beautifulsoup4
+pandas
+schedule
+feedparser
+beautifulsoup4
+pandas
+schedule
+flask
+nflask
+nflask-cors
+napscheduler
